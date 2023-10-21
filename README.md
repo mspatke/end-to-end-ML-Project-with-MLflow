@@ -1,6 +1,6 @@
 # End-to-end-ML-Project-with-MLflow
 
-## Workslows
+## Workflows
 
 
 1. Update config.yaml
