@@ -6,7 +6,7 @@ from mlProject.utils.common import get_size
 from pathlib import Path
 from mlProject.entity.config_entity import DataIngestionConfig
 
-
+# data ingestion component used for downloading zip file and unzip it and save into local space
 class DataIngestion:
 
     def __init__(self, config: DataIngestionConfig):
@@ -20,7 +20,7 @@ class DataIngestion:
             )
             logger.info(f"{filename} download! with following info : \n {headers}")
         else:
-            logger.info(f"file alreadt exists of size:{get_size(Path(self.config.local_data_file))}")   
+            logger.info(f"file already exists of size:{get_size(Path(self.config.local_data_file))}")   
 
 
 
