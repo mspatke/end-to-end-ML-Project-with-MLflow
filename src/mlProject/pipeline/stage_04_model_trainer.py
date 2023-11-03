@@ -3,7 +3,7 @@ from mlProject.components.model_trainer import ModelTrainer
 from mlProject import logger
 from pathlib import Path
 
-# write pipeline code
+# write pipeline code here 
 
 STAGE_NAME = 'Model Training Stage'
 
