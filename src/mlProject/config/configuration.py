@@ -52,6 +52,8 @@ class ConfigurationManager:
         return data_validation_config
 
 
+
+
     def get_data_transfromation_config(self) -> DataTransformationConfig:
 
             config=self.config.data_transformation
@@ -64,6 +66,8 @@ class ConfigurationManager:
             )
             return data_transfromation_config
     
+
+
     def get_model_trainer_config(self) -> ModelTrainerConfig:
 
         config = self.config.model_trainer
