@@ -6,13 +6,13 @@ import numpy as np
 import joblib
 from pathlib import Path
 from urllib.parse import urlparse
-from  src.mlProject.entity.config_entity import ModelEvaluationConfig
-from src.mlProject.utils.common import save_json
+from mlProject.entity.config_entity import ModelEvaluationConfig
+from mlProject.utils.common import save_json
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 
 
-class ModelEvalaution:
+class ModelEvaluation:
 
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config
