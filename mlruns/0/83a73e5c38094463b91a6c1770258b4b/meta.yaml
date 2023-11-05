@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/End-To-End%20Ml%20Project/End-to-end-ML-Project-with-MLflow/mlruns/0/83a73e5c38094463b91a6c1770258b4b/artifacts
+end_time: 1699144651700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83a73e5c38094463b91a6c1770258b4b
+run_name: unique-lynx-947
+run_uuid: 83a73e5c38094463b91a6c1770258b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699144646431
+status: 3
+tags: []
+user_id: DELL

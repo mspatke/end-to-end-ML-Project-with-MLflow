@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/End-To-End%20Ml%20Project/End-to-end-ML-Project-with-MLflow/mlruns/0/1e6e5c6a99974c288e47dd57b83c03fe/artifacts
+end_time: 1699142993180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e6e5c6a99974c288e47dd57b83c03fe
+run_name: brawny-koi-171
+run_uuid: 1e6e5c6a99974c288e47dd57b83c03fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699142988152
+status: 3
+tags: []
+user_id: DELL

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/End-To-End%20Ml%20Project/End-to-end-ML-Project-with-MLflow/mlruns/0/b64eb2061dd84533a4acc6c6a3806cde/artifacts
+end_time: 1699143025949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b64eb2061dd84533a4acc6c6a3806cde
+run_name: monumental-colt-689
+run_uuid: b64eb2061dd84533a4acc6c6a3806cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699143020451
+status: 3
+tags: []
+user_id: DELL

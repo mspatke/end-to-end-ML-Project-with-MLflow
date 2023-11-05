@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/End-To-End%20Ml%20Project/End-to-end-ML-Project-with-MLflow/mlruns/0/bbfe2ab19d144284a158e53826a4533a/artifacts
+end_time: 1699143444704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbfe2ab19d144284a158e53826a4533a
+run_name: agreeable-whale-123
+run_uuid: bbfe2ab19d144284a158e53826a4533a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699143438678
+status: 3
+tags: []
+user_id: DELL
