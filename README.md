@@ -36,6 +36,7 @@ export MLFLOW_TRACKING_PASSWORD=8518bb307abed9989560d016d935f9a3af3abb4a
 '''
 
 2) If you are running code in jupyter notebook, then set below env variable in notebook
+   
 '''
 os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/mspatke/End-to-end-ML-Project-with-MLflow.mlflow"
 
